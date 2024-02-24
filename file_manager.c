@@ -4,7 +4,6 @@
 
 #define MAX_FILENAME_LENGTH 100
 
-// Function prototypes
 void displayMenu();
 void createFile();
 void readFile();
